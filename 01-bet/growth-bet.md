@@ -5,10 +5,9 @@
 
 ## Growth hypothesis
 
-FinWise's biggest growth problem is FinWise's biggest growth problem is is poor activation and conversion from trial to paid, because because 98% of trial users fail to become paying customers.
+FinWise's biggest growth problem is value-realisation, because customers are entering the funnel, but too few experience enough value to convert and stay. 
 
-_Working notes: FinWise's biggest growth problem is value-realisation, because customers are entering the funnel, but too few experience enough value to convert and stay. Evidence: This is evidenced by:
-
+Evidence: This is evidenced by:
 - the 2% trial-to-paid conversion rate
 - 40% one year retention
 - diminishing returns from additional paid acquisition spend. Against the data: Whilst the data strengthens my original hypothesis by confirming that the point of Activation is the problem area to focus on, it doesn't inform me 'why' there is such a drop off.  So whilst its a good place to initiate my first experiment more investigation is likely to be needed to see a real uptick in paid conversions_
@@ -17,9 +16,11 @@ _____
 
 ## The bet
 
-the highest leverage experiment I would run first is a collaboration-loop experiment that enables trial users to invite members of their small business (such as an accountant, bookkeeper etc.) into a core financial workflow, testing whether collaborative use increases activation and ultimately trial-to-paid conversion.
+The highest leverage experiment I would run first is a collaboration-loop experiment that enables trial users to invite members of their small business (such as an accountant, bookkeeper etc.) into a core financial workflow, testing whether collaborative use increases activation and ultimately trial-to-paid conversion.
 
-**Not doing:** I would not prioritise increasing paid acquisition or driving additional trial volume, because this would divert resources from my primary bet: improving activation and trial-to-paid conversion through a collaboration loop. Until we establish whether we can improve conversion, adding more users to the top of the funnel risks scaling the problem rather than improving revenue.
+**Not doing:** 
+
+I would not prioritise increasing paid acquisition or driving additional trial volume, because this would divert resources from my primary bet: improving activation and trial-to-paid conversion through a collaboration loop. Until we establish whether we can improve conversion, adding more users to the top of the funnel risks scaling the problem rather than improving revenue.
 
 _____
 
