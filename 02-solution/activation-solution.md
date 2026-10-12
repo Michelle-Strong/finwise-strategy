@@ -17,7 +17,8 @@ _____
 
 ## Why this activates
 
-This works because the user can set up quickly within a few clicks, and access their banking data so they can focus on the immediate job to be done.
+The prototype shows promising evidence of reduced onboarding friction and faster access to value, although improvements in activation and conversion still need to be validated through behavioural data.
+
 
 _____
 
