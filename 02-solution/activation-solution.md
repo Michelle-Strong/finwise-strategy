@@ -24,10 +24,3 @@ _____
 
 
 
-_____
-
-## Why this activates
-
-_The activation logic: what changes, and why it converts trial users._
-
-_____
