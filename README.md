@@ -51,3 +51,6 @@ finwise-strategy/
 ---
 
 _Certification submission — Product Experimentation Certification._
+
+
+file:///media/fuse/drivefs-daa3ed02ed7c72e6ca6f06ad028ce0dd/root/Product%20Experimentation/Finwise%20final%20pitch%20Michelle%20Strong.html
